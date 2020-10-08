@@ -1,0 +1,252 @@
+.aer {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: bold;
+	color: #0000FF;
+}
+.eon {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FF0000;
+}
+.largescriptroman {
+	font-family: RomanC, RomanD, RomanS, RomanT;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: bold;
+	color: #000000;
+}
+.aerscript {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	font-weight: bold;
+	color: #0000FF;
+}
+.eonscript {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FF0000;
+}
+.largescript {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: bold;
+	color: #000000;
+}
+.mediumscript {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #000000;
+}
+.mediumscriptroman {
+	font-family: RomanC, RomanD, RomanS, RomanT;
+	font-size: 15px;
+	font-style: normal;
+	font-weight: bold;
+	color: #000000;
+}
+.bolditalicsblack {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-style: italic;
+	font-weight: bolder;
+}
+.bolditalicsblackmed {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: bold;
+}
+.bolditalicblackundln {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: bolder;
+	text-decoration: underline;
+}
+.TNRwhundln {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 18px;
+	font-style: normal;
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+.aerscriptundln {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	color: #0000FF;
+	text-decoration: underline;
+	font-weight: bold;
+
+}
+.eonscriptundln {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FF0000;
+	text-decoration: underline;
+}
+.medundln {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #000000;
+	text-decoration: underline;
+}
+.medblkscrp {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+}
+.smallinks {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+
+}
+.smalltext {
+	font-family: Batang, "Century Gothic", "CommercialScript BT", Complex, Courier, "Courier New";
+	font-size: 9px;
+	font-style: italic;
+	font-weight: bold;
+	font-variant: normal;
+	color: #000000;
+
+}
+.smalltxtgrn {
+	font-family: "Comic Sans MS";
+	font-size: 9px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #00FF00;
+}
+.copyright {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	color: #000000;
+}
+.mssanserif16blkbldund {
+	font-family: "MS Sans Serif";
+	font-size: 16px;
+	font-style: normal;
+	font-weight: bolder;
+	font-variant: normal;
+	color: #000000;
+	text-decoration: underline;
+}
+.MSsanserif16blkbld {
+	font-family: "MS Sans Serif";
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #000000;
+}
+.MSsanserif16blkbldital {
+	font-family: "MS Sans Serif";
+	font-size: 16px;
+	font-style: italic;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #000000;
+}
+.ariel24blkbld {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #000000;
+	text-decoration: none;
+}
+.ariel16blkbld {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #000000;
+	text-decoration: none;
+}
+.MSsanserif16redbldital {
+	font-family: "MS Sans Serif";
+	font-size: 16px;
+	font-style: italic;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #FF0000;
+}
+.MSsanserif16blubldital {
+	font-family: "MS Sans Serif";
+	font-size: 16px;
+	font-style: italic;
+	font-weight: bold;
+	font-variant: normal;
+	color: #0000FF;
+}
+.MSsanserif16blubld {
+	font-family: "MS Sans Serif";
+	font-size: 16px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #0000FF;
+	text-decoration: none;
+}
+.MSsanserif16redbld {
+	font-family: "MS Sans Serif";
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #FF0000;
+	text-decoration: none;
+}
+.Mssanserif16blubldund {
+	font-family: "MS Sans Serif";
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #0000FF;
+	text-decoration: underline;
+}
+.Mssanserif16redbldund {
+	font-family: "MS Sans Serif";
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	text-transform: none;
+	color: #FF0000;
+	text-decoration: underline;
+}
